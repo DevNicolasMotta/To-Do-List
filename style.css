@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #c0c0c0;
+    background-color: #aef04669;
 }
 
 .todo-container {
@@ -28,7 +28,7 @@ input {
     width: 92%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #00000060;
     border-radius: 4px;
 }
 
